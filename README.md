@@ -55,12 +55,16 @@ Alertmanager  запущен.
 
 - Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+Метрики 
 
-![prometheus.yml](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/prometheus_yml.png)
 
- Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+![Metrics](https://github.com/Andrewsolo1969/9-05-hw/blob/main/img/metrics.png)
 
- ![targets](https://github.com/Andrewsolo1969/9-04-hw/blob/main/img/targets.png)
+
+ скриншот списка таргетов из интерфейса Prometheus.
+
+
+ ![targets](https://github.com/Andrewsolo1969/9-05-hw/blob/main/img/targets.png)
 
 
  
