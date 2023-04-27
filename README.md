@@ -2,7 +2,7 @@
 
 При выполнении задания в  использована домашняя машина c Ubuntu 22.04
 
-Prometheus, Node Exporter и Alertmanager установлены на  виртуальную машину 192.168.122.104 
+Prometheus, Node Exporter, Alertmanager и Docker установлены на  виртуальную машину 192.168.122.104 
 
 На 192.168.122.198 установлен Node Exporter
 
